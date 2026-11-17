@@ -1,0 +1,38 @@
+# Android / Gradle build outputs
+.gradle/
+**/build/
+/release/
+/captures/
+
+# Local machine configuration (SDK path, local environment)
+local.properties
+
+# Android Studio / IntelliJ temporary and machine-specific files
+.idea/
+*.iml
+
+# Kotlin / native build caches (safe to ignore even if not currently used)
+.kotlin/
+.externalNativeBuild/
+.cxx/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated APKs / App Bundles (keep source in Git; distribute binaries via GitHub Releases)
+*.apk
+*.aab
+
+# Signing keys and local secrets - NEVER commit these
+*.jks
+*.keystore
+key.properties
+keystore.properties
+secrets.properties
+.env
+.env.*

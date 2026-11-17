@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CineLog</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_more">More</string>
+    <string name="placeholder_subtitle">Coming soon</string>
+</resources>

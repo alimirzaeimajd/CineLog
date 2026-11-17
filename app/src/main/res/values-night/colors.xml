@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cl_bg">#0E0E10</color>
+    <color name="cl_surface">#17171B</color>
+    <color name="cl_surface_alt">#202026</color>
+    <color name="cl_outline">#2C2C34</color>
+    <color name="cl_accent">#F2A93B</color>
+    <color name="cl_accent_soft">#2A2113</color>
+    <color name="cl_on_accent">#1A1203</color>
+    <color name="cl_text_primary">#F5F3EE</color>
+    <color name="cl_text_secondary">#A6A6B0</color>
+    <color name="cl_text_muted">#70707B</color>
+    <color name="cl_success">#4CC38A</color>
+    <color name="cl_info">#5B9DFF</color>
+    <color name="cl_hold">#B58CFF</color>
+    <color name="cl_neutral">#9A9AA6</color>
+    <color name="cl_danger">#EF5B5B</color>
+
+    <bool name="cl_light_bars">false</bool>
+</resources>
